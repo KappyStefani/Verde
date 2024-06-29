@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\categoria\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\categoria\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\categoria\\bd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\categoria\\bd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\produto\\bd_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\produto\\bd_produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\produto\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\itens\\bd_itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\itens\\bd_itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\itens\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\itens\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\entidades\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\entidades\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|c:\\users\\hugo.smagalhaes\\source\\repos\\verde\\verde\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BAC0F6FB-8B93-4924-B83B-FD5D9FAA6CE0}|Verde\\Verde.csproj|solutionrelative:verde\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bd_Produto.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Produto\\Bd_Produto.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Produto\\Bd_Produto.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Produto\\Bd_Produto.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Produto\\Bd_Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:59:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bd_Itens.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Itens\\Bd_Itens.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Itens\\Bd_Itens.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Itens\\Bd_Itens.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Itens\\Bd_Itens.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:54:12.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Connection.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Connection.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Connection.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:42:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bd_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Categoria\\Bd_Categoria.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Categoria\\Bd_Categoria.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Categoria\\Bd_Categoria.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Categoria\\Bd_Categoria.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:37:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Itens.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Itens\\Itens.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Itens\\Itens.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Itens\\Itens.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Itens\\Itens.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:21:45.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Categoria\\Categoria.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Categoria\\Categoria.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Categoria\\Categoria.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Categoria\\Categoria.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:16:26.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Produto\\Produto.cs",
+              "RelativeDocumentMoniker": "Verde\\Entidades\\Produto\\Produto.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Entidades\\Produto\\Produto.cs",
+              "RelativeToolTip": "Verde\\Entidades\\Produto\\Produto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:11:34.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Program.cs",
+              "RelativeDocumentMoniker": "Verde\\Program.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Program.cs",
+              "RelativeToolTip": "Verde\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T15:00:19.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Form1.cs",
+              "RelativeDocumentMoniker": "Verde\\Form1.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Form1.cs",
+              "RelativeToolTip": "Verde\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:59:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\App.config",
+              "RelativeDocumentMoniker": "Verde\\App.config",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\App.config",
+              "RelativeToolTip": "Verde\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-29T14:57:35.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Form1.cs",
+              "RelativeDocumentMoniker": "Verde\\Form1.cs",
+              "ToolTip": "C:\\Users\\hugo.smagalhaes\\source\\repos\\Verde\\Verde\\Form1.cs [Design]",
+              "RelativeToolTip": "Verde\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:57:14.922Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
